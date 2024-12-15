@@ -3,3 +3,9 @@
 
 ### Week 9. Pandas
 - CSV files
+
+### Week 12. Web Crawling
+- JSON file
+
+- ### Week 13. Image Processing
+- Image files
