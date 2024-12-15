@@ -7,5 +7,5 @@
 ### Week 12. Web Crawling
 - JSON file
 
-- ### Week 13. Image Processing
+### Week 13. Image Processing
 - Image files
